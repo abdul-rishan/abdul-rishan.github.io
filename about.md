@@ -1,5 +1,5 @@
-                                                       ABDUL RISHAN SHAIKH
-                          BSc Aeronautics (Avionics) | RT License Holder | Modules cleared | Computer no: E-20180556
+                                                     ABDUL RISHAN SHAIKH
+                       BSc Aeronautics (Avionics) | RT License Holder | Modules cleared | Computer no: E-20180556
 
 Email : abdulrishan.shaikh@gmail.com			                                                  Website: https://abdul-rishan.github.io
 Phone : +91- 8850041207 /  7710989802			                                            Linkedin: https://linkedin.com/in/abdul-rishan
