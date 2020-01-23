@@ -1,8 +1,22 @@
 ---
 layout: page
-title: About Me
+title: About
 permalink: /about/
 ---
+
+Hello World! This is Rahul Kallil
+
+### More Information
+
+I'm a Python Freelancer and a 1st year postgraduate student currently studying at University of Mumbai and majoring in Information Technology. Actively looking for internship opportunities in IT, Computers, Software services companies. Working to reinvent healthcare after postgragraduation
+My favourite passtime include watching Netflix and playing Laptop games. .
+
+The services I offer as a freelancer:
+
+### Contact me
+
+[rahulkallil2@gmail.com](mailto:email@domain.com)
+
 
 # Hi There!
 
@@ -37,49 +51,4 @@ That's this blog aiming to help you get hired as a web developer. You can sign u
 ## ABDUL RISHAN SHAIKH
 ## BSc Aeronautics (Avionics) | RT License Holder | Modules cleared | Computer no: E-20180556
 
-ABDUL RISHAN SHAIKH
- BSc Aeronautics (Avionics) | AME Student 
-Email: abdulrishan.shaikh@gmail.com			Web Portfolio: https://abdul-rishan.github.io
-Phone: +91- 8850041207/ 7710989802			LinkedIn: https://linkedin.com/in/abdul-rishan
-
-Summary
-* Passionate, Hard-working and Aspiring Aeronautical Engineer bagging 4 DGCA modules cleared
-* Bachelor’s degree final semester student majoring in Aeronautics – Avionics with a consistent excellent academic record
-* Flexible to learn every skill and put in practice according to the work requirement
-
-Key Skills
-AutoCAD (Beginner) | Basic Aerodynamics | Civil Aviation Requirement | Electrical Instrument | Ground Handling | Human Factor| Maintenance Practice | Model Designing| Radio Navigation | Theory of Flight
-
-Education
-Bachelors of Aeronautics (Avionics), Semester V				  Jul, 2017 - Present
-Bombay Flying Club, Mumbai University	
-Currently in Final Semester of the course
-
-Aircraft Maintenance Engineering (Avionics)				  Jul, 2017 - Present
-Bombay Flying Club, DGCA approved AME Training Institute
-Completed 2 years and 6 months of A.M.E course in Avionics Stream, currently in final Semester
-
-Class XII (Science)								        Jun, 2015 – May, 2017
-SIES College of Arts, Science & Commerce, Mumbai
-
-Class X								          	          		      Mar, 2015
-SIES High School, Mumbai
-
-Certifications & Licenses
-* Cleared following 4 DGCA modules 
-* Materials and Hardware – Module 6
-* Basic Aerodynamics – Module 8
-* Human Factor – Module 9 
-* Propulsion – Module 14
-* Applied and appeared for Radio Telephony  Restricted (Aero) License exam  conducted by Wireless Planning & Coordination (WPC) Wing of the Ministry of Communications 	 
-
-Interests & Achievements
-* Active Participation in Sports
-* 2019: Placed #1 in Tug of War, Intra College Competition  by Bombay Flying Club
-* 2018: Placed #2 in Football and Volleyball- Intra College Competition by Bombay Flying Club
-* Participation in Project Seminar									          
-* 2018: Presented a topic on Circular Runway at an event conducted by Aeronautical Society of India in Bombay Flying Club
-* Hobbies : Travelling /  Driving
-* Interested and Flexible to travel across multiple locations for work
-* Can drive multiple types of vehicles
 
