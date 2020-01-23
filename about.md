@@ -37,42 +37,49 @@ That's this blog aiming to help you get hired as a web developer. You can sign u
 ## ABDUL RISHAN SHAIKH
 ## BSc Aeronautics (Avionics) | RT License Holder | Modules cleared | Computer no: E-20180556
 
-# Email : abdulrishan.shaikh@gmail.com			                                                  Website: https://abdul-rishan.github.io
-# Phone : +91- 8850041207 /  7710989802			                                            Linkedin: https://linkedin.com/in/abdul-rishan
-# Location : Mumbai, India					                                                    Twitter:   https://twitter.com/in/abdul-rishan
+ABDUL RISHAN SHAIKH
+ BSc Aeronautics (Avionics) | AME Student 
+Email: abdulrishan.shaikh@gmail.com			Web Portfolio: https://abdul-rishan.github.io
+Phone: +91- 8850041207/ 7710989802			LinkedIn: https://linkedin.com/in/abdul-rishan
 
-# Summary
-•	Passionate, Hard-working and Aspiring Aeronautical Engineer bagging x number of modules cleared of DGCA.
-•	Bachelor’s degree final semester student majoring in Aeronautics – Avionics with a consistent excellent academic record
-•	Possess in-depth theoretical knowledge  of modules
-•	Flexible to learn and work and serve the job requirements
+Summary
+* Passionate, Hard-working and Aspiring Aeronautical Engineer bagging 4 DGCA modules cleared
+* Bachelor’s degree final semester student majoring in Aeronautics – Avionics with a consistent excellent academic record
+* Flexible to learn every skill and put in practice according to the work requirement
 
-# Key Skills
-Softwares: AutoCAD , MathCAD | Programming Languages : C++ , Python | Operating System : Linux , Windows | 3D Design
+Key Skills
+AutoCAD (Beginner) | Basic Aerodynamics | Civil Aviation Requirement | Electrical Instrument | Ground Handling | Human Factor| Maintenance Practice | Model Designing| Radio Navigation | Theory of Flight
 
-# Education
-
-Bachelors of Aeronautics (Avionics), Semester V				                                                          Jul, 2017 - Jun, 2020
+Education
+Bachelors of Aeronautics (Avionics), Semester V				  Jul, 2017 - Present
 Bombay Flying Club, Mumbai University	
-Notable Coursework: Civil Aviation Requirement, Human Factor, Electrical Instrument, Radio Navigation, Basic Aerodynamics, Theory of Flight, Ground Handling, Maintenance Practice
+Currently in Final Semester of the course
 
-Class XII (Science)								                                                                               Jun, 2015 – May, 2017
-Class X 								          	          		                                                                           Mar, 2015
+Aircraft Maintenance Engineering (Avionics)				  Jul, 2017 - Present
+Bombay Flying Club, DGCA approved AME Training Institute
+Completed 2 years and 6 months of A.M.E course in Avionics Stream, currently in final Semester
+
+Class XII (Science)								        Jun, 2015 – May, 2017
+SIES College of Arts, Science & Commerce, Mumbai
+
+Class X								          	          		      Mar, 2015
+SIES High School, Mumbai
+
 Certifications & Licenses
-•	DGCA approved x number of CAR modules cleared
-•	Applied and appeared for RT License exam- Results awaited
+* Cleared following 4 DGCA modules 
+* Materials and Hardware – Module 6
+* Basic Aerodynamics – Module 8
+* Human Factor – Module 9 
+* Propulsion – Module 14
+* Applied and appeared for Radio Telephony  Restricted (Aero) License exam  conducted by Wireless Planning & Coordination (WPC) Wing of the Ministry of Communications 	 
 
-# Projects
-Design and Fluid-structure Interaction of UAV Wings
-•	Structural & Aerodynamic Design of Main Wing, Horizontal & Vertical Stabilizer using Ribs-spars model (CATIA)
-•	Structural Assembly of wing structures to create a model suited for CFD Analysis
+Interests & Achievements
+* Active Participation in Sports
+* 2019: Placed #1 in Tug of War, Intra College Competition  by Bombay Flying Club
+* 2018: Placed #2 in Football and Volleyball- Intra College Competition by Bombay Flying Club
+* Participation in Project Seminar									          
+* 2018: Presented a topic on Circular Runway at an event conducted by Aeronautical Society of India in Bombay Flying Club
+* Hobbies : Travelling /  Driving
+* Interested and Flexible to travel across multiple locations for work
+* Can drive multiple types of vehicles
 
-# Interests / Honors & Awards
-•	Active Participation in Sports
-•	Bagged 2nd prize in Tug of War
-•	Bagged 2nd prize in Kabaddi Inter College Competition
-•	Drawing  / Sketching
-•	Uploaded various designs of aircraft parts on my website – https://abdul-rishan.github.io
-•	Hobbies : Travelling /  Driving
-•	Interested and Flexible to travel across the land for the work. 
-•	Can drive multiple types of vehicles.
